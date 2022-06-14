@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Rodrigo Nóbrega</i></a> 😃️</h1>
-  <p align="center">Mechanical engineer and graduated from le wagon as a fullstack developer. Brazilian living in Portugal. I intend to study and specialize in front end. I have experience in development in web outsystems. let's do it!</p>
+  <p align="center">Mechanical engineer and recently graduated from Le wagon at bootcamp for fullstack web developer. I intend to specialize in front end. studying react... I have experience in development in web outsystems. let's do it!</p>
 </div>
 
 
