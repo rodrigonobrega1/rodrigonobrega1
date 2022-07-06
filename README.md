@@ -1,6 +1,19 @@
 <div>
   <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Rodrigo Nóbrega</i></a> 😃️</h1>
-  <p align="center">Mechanical engineer and recently graduated from Le wagon at bootcamp for fullstack web developer. I intend to specialize in front end. studying react... I have experience in development in web outsystems. let's do it!</p>
+  <p align="center">Hi! My name is Rodrigo Nóbrega and after almost 7 years of experience in the manufacturing industry, passing through large multinationals in the automotive sector, I decided to change areas and I found myself with a new challenge. Yes... Today I can consider myself the newest programmer in the field!
+
+In 2020 during the pandemic I got to know the OutSystems lowcode technology, and after a bootcamp I graduated as a web developer. I carried out some case study projects where I managed to develop some skills in technology.
+
+Recently, on 06/2022, I concluded the bootcamp for Le Wagon's FullStack Web Developer in Lisbon. During the course we used several languages ​​as learning, among them... Ruby on rails, html, CSS, Javascript, among other tools. At the end of the course we created a team project, which I was very proud of. An application aimed at communities, where through an in-app currency, you can exchange services with your neighbors.
+Take a look...
+
+www.neighbud.me
+
+In this journey I discovered where I want to go and I am currently studying React and Type Script to become an expert in Front End Developer.
+
+If you want to chat and talk about future work, just send a message!
+
+Commitment, dedication and team work. let's do it!</p>
 </div>
 
 
